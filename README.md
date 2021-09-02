@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning **BIG DATA & CLOUD!**
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with **HDFS**
-- 💬 Ask me about **DS-ALGO, C++, PYTHON**
+- 💬 Ask me about **DS-ALGO, C++, PYTHON !**
 - 📫 Reach-out to me: **schatterjee95.sc@gmail.com**
-- 😄 Pronouns: **DEDICATED, DISCIPLINED & DESPERATE**
-- ⚡ Fun fact: **ML ENTHUSIAST**
+- 😄 Pronouns: **DEDICATED, DISCIPLINED & DESPERATE ;)**
+- ⚡ Fun fact: **ML ENTHUSIAST <3**
 
 <!-- **SCIEN-TERRIFIC/SCIEN-TERRIFIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
