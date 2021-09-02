@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SCIEN-TERRIFIC/SCIEN-TERRIFIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
->
 - 🔭 I’m currently working as **DATA ENGINEER**
 - 🌱 I’m currently learning **BIG DATA & CLOUD!**
 - 👯 I’m looking to collaborate 
@@ -14,3 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **DEDICATED, DISCIPLINED & DESPERATE**
 - ⚡ Fun fact: **ML ENTHUSIAST**
 
+<!-- **SCIEN-TERRIFIC/SCIEN-TERRIFIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
