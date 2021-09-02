@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm SOMNATH CHATTERJEE
+   (_AVID READER & RAPID LEARNER_)
 
 
 - 🔭 I’m currently working as **DATA ENGINEER**
